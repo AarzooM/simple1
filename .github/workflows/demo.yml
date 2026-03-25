@@ -26,7 +26,3 @@ jobs:
       
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v5
-          path: '.'
-      
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v5
